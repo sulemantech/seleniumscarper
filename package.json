@@ -23,6 +23,8 @@
   "homepage": "https://github.com/sulemantech/seleniumscarper#readme",
   "dependencies": {
     "chromedriver": "^109.0.0",
+    "csv-parse": "^5.3.3",
+    "fs": "^0.0.1-security",
     "selenium-webdriver": "^4.8.0"
   }
 }
